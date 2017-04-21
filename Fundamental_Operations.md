@@ -1,5 +1,5 @@
 # Fundamental Operations
----
+
 ## Remove unnecessary apt packages
  * sudo apt-get autoremove
 
